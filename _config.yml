@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ysai.work
+url: https://ssmk.wuzike.xyz
 date_format: "ordinal"
 title: Ysai
 subtitle: "Less is More"
 description: "个人博客"
-keywords: Ysai, cbxs123, cbxs
+keywords: 物资部, segadrive, sega
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -19,8 +19,8 @@ side_bar_repo_limit: 3
 author: Ysai
 organization: CMB, Inc.
 organization_url: 
-github_username: cbxs123
-location: Shenzhen,China
+github_username: segadrive
+location: Yulin,China
 email: 
 
 # ---------------- #
@@ -84,7 +84,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: cbxs123/cbxs123.github.io
+repository: segadrive/segadrive.github.io
 
 # ---------------- #
 #      Comments    #
@@ -98,17 +98,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: cbxs123
-    repo: cbxs123.github.io
+    owner: segadrive
+    repo: ssmk.wuzike.xyz
     oauth:
-        client_id: 6f043c6e830e7ffc90bf
-        client_secret: 95521b3cddba56a5f2ba8a20a51554d49448fdd2
+        client_id: 162bfb51c9cf39f9a793
+        client_secret: a0d6a7cbf0bbd3d468d0e126215bf6e22c2c4657
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: cbxs123
-    repo: cbxs123.github.io
-    clientID: 6f043c6e830e7ffc90bf
-    clientSecret: 95521b3cddba56a5f2ba8a20a51554d49448fdd2
+    owner: segadrive
+    repo: ssmk.wuzike.xyz
+    clientID: d3c6a1ad6f5ea4820785
+    clientSecret: 5b224d9dbe9e32b8f69a0ab390b7626a4f090e99
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
