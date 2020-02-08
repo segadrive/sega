@@ -4,8 +4,8 @@
 baseurl:
 url: https://ssmk.wuzike.xyz
 date_format: "ordinal"
-title: Ysai
-subtitle: "Less is More"
+title: 物资部
+subtitle: "双山煤矿"
 description: "个人博客"
 keywords: 物资部, segadrive, sega
 favicon: /favicon.ico
@@ -17,8 +17,8 @@ side_bar_repo_limit: 3
 #      Author      #
 # ---------------- #
 author: Ysai
-organization: CMB, Inc.
-organization_url: 
+organization: SSMK, Inc.
+organization_url: ssmk.wuzike.xyz
 github_username: segadrive
 location: Yulin,China
 email: 
