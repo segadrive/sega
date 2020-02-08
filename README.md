@@ -25,7 +25,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://ysai.work)**
+**[在线预览 &rarr;]https://ssmk.wuzike.xyz
 
 ![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
