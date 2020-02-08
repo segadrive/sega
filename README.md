@@ -1,10 +1,11 @@
 ## 致谢
 
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 和 [mzlogin](https://mzlogin.github.io) 修改，感谢！
+本博客外观基于 [ Ysai](https://ysai.work) 和 [mzlogin](https://mzlogin.github.io) 修改，感谢！
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
 [3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
+<<<<<<< HEAD
 
 # segadrive
 
@@ -80,3 +81,5 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 * 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
 
 * 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
+=======
+>>>>>>> 7e2d31e78e69a3b5b9852f3606df45dd5e652ff0
