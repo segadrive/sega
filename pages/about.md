@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Less is More
-keywords: Ysai
+keywords: segadrive
 comments: true
 menu: 关于
 permalink: /about/

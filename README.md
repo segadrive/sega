@@ -6,9 +6,9 @@
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
 [3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
 
-# Ysai
+# segadrive
 
-我的个人博客：<https://ysai.work>，欢迎 Star 和 Fork。
+我的个人博客：<https://ssmk.wuzike.xyz>，欢迎 Star 和 Fork。
 
 ## 概览
 

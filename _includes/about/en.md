@@ -1,4 +1,4 @@
-> **00-[项目实践](https://ysai.work/tags/?tag=%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5)：**
+> **00-[项目实践](https://www.wuzike.xyz)：**
 >
 > **01-数学基础：**数学三；概率论与数理统计；统计学；多元&时间序列
 >
@@ -22,7 +22,7 @@
 >
 > **11-区块链：**
 >
-> **12-[前端开发](https://ysai.work/tags/?tag=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)：**小程序；[Blog](https://ysai.work/tags/?tag=Blog)；HTML5；[CSS](https://ysai.work/tags/?tag=CSS)；[JavaScript](https://ysai.work/tags/?tag=JavaScript)；Bootstrap；[WebApp](https://ysai.work/tags/?tag=WebApp)；Node.js；React.JS；jQuery；Vue.js；Sass&Less；Angular
+> **12-[前端开发](https://www.wuzike.xyz)：**小程序；[Blog](https://www.wuzike.xyz)；HTML5；[CSS](https://ysai.work/tags/?tag=CSS)；[JavaScript](https://ysai.work/tags/?tag=JavaScript)；Bootstrap；[WebApp](https://ysai.work/tags/?tag=WebApp)；Node.js；React.JS；jQuery；Vue.js；Sass&Less；Angular
 >
 > **13-后端开发：**Python；Java；SpringBoot；爬虫；PHP；Go；Ruby；Django；Tornado；C；C++；C#
 >
@@ -42,7 +42,7 @@
 >
 > **21-阅读：**
 >
-> **22-[笔记](https://ysai.work/tags/?tag=%E7%AC%94%E8%AE%B0)：**
+> **22-[笔记](https://www.wuzike.xyz)：**
 >
-> **23-工作：**项目；[求职](https://ysai.work/tags/?tag=%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92)
+> **23-工作：**项目；[求职](https://www.wuzike.xyz)
 
