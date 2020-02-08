@@ -16,7 +16,7 @@ side_bar_repo_limit: 3
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Ysai
+author: segadrive
 organization: SSMK, Inc.
 organization_url: ssmk.wuzike.xyz
 github_username: segadrive
@@ -84,7 +84,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: segadrive/segadrive.github.io
+repository: segadrive.github.io
 
 # ---------------- #
 #      Comments    #
@@ -126,4 +126,4 @@ simple_jekyll_search:
 # ---------------- #
 google:
     analytics_id: UA-138772853-1
-    ga_domain: ysai.work
+    ga_domain: wuzike.xyz
