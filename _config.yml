@@ -97,7 +97,7 @@ comments_provider: gitalk
 disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
+#gitment:
     owner: segadrive
     repo: ssmk.wuzike.xyz
     oauth:
